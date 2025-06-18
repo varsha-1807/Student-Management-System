@@ -43,4 +43,4 @@ GROUP BY s.Name;
 
 ## 📬 Contact
 
-Created by [Your Name] – feel free to reach out via GitHub!
+Created by Varsha P – feel free to reach out via GitHub!
